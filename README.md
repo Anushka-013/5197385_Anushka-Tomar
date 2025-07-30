@@ -18,3 +18,7 @@ These are the commands of Linux:
 ![Linux Command 9](LinuxCommand9.png)
 ![Linux Command 10](LinuxCommand10.png)
 ![Linux Command 11](LinuxCommand11.png)
+![Linux Command 12](LinuxCommand12.png)
+![Linux Command 13](LinuxCommand13.png)
+![Linux Command 14](LinuxCommand14.png)
+![Linux Command 15](LinuxCommand15.png)
